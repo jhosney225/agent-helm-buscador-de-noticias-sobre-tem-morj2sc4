@@ -1,0 +1,6 @@
+{
+  "name": "agent-helm-buscador-de-noticias-sobre-tem-morj2sc4",
+  "version": "1.0.0",
+  "description": "Proyecto de Helm [Gen4]: buscador de noticias sobre temas de interes",
+  "main": "index.js"
+}
